@@ -125,8 +125,8 @@ def calculadora():
                         
 => '''))
             if erro == 1:
-                limpar();
-                calculadora();
+                limpar()
+                calculadora()
             else:
                     limpar()
                     quit()
